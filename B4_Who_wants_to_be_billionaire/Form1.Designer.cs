@@ -721,7 +721,7 @@
             this.BtnBasla.ForeColor = System.Drawing.Color.White;
             this.BtnBasla.Location = new System.Drawing.Point(889, 546);
             this.BtnBasla.Name = "BtnBasla";
-            this.BtnBasla.Size = new System.Drawing.Size(119, 44);
+            this.BtnBasla.Size = new System.Drawing.Size(136, 44);
             this.BtnBasla.TabIndex = 22;
             this.BtnBasla.Text = "Başla";
             this.BtnBasla.UseVisualStyleBackColor = false;
@@ -801,7 +801,7 @@
             this.BtnYenidenBasla.ForeColor = System.Drawing.Color.White;
             this.BtnYenidenBasla.Location = new System.Drawing.Point(889, 604);
             this.BtnYenidenBasla.Name = "BtnYenidenBasla";
-            this.BtnYenidenBasla.Size = new System.Drawing.Size(119, 71);
+            this.BtnYenidenBasla.Size = new System.Drawing.Size(136, 71);
             this.BtnYenidenBasla.TabIndex = 29;
             this.BtnYenidenBasla.Text = "Yenidən Başla";
             this.BtnYenidenBasla.UseVisualStyleBackColor = false;
